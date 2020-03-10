@@ -351,11 +351,6 @@ namespace Task_Tracking_Application
             Console.SetCursorPosition(0, currentLineCursor);
         }
 
-
-
-
     }
-
-
 
 }
