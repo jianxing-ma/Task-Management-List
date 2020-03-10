@@ -1,0 +1,11 @@
+C:\Users\james\Desktop\MSSA\220\Projects\Project Week 4\Project Week 4\bin\Debug\netcoreapp3.1\Project Week 4.exe
+C:\Users\james\Desktop\MSSA\220\Projects\Project Week 4\Project Week 4\bin\Debug\netcoreapp3.1\Project Week 4.deps.json
+C:\Users\james\Desktop\MSSA\220\Projects\Project Week 4\Project Week 4\bin\Debug\netcoreapp3.1\Project Week 4.runtimeconfig.json
+C:\Users\james\Desktop\MSSA\220\Projects\Project Week 4\Project Week 4\bin\Debug\netcoreapp3.1\Project Week 4.runtimeconfig.dev.json
+C:\Users\james\Desktop\MSSA\220\Projects\Project Week 4\Project Week 4\bin\Debug\netcoreapp3.1\Project Week 4.dll
+C:\Users\james\Desktop\MSSA\220\Projects\Project Week 4\Project Week 4\bin\Debug\netcoreapp3.1\Project Week 4.pdb
+C:\Users\james\Desktop\MSSA\220\Projects\Project Week 4\Project Week 4\obj\Debug\netcoreapp3.1\Project Week 4.csprojAssemblyReference.cache
+C:\Users\james\Desktop\MSSA\220\Projects\Project Week 4\Project Week 4\obj\Debug\netcoreapp3.1\Project Week 4.AssemblyInfoInputs.cache
+C:\Users\james\Desktop\MSSA\220\Projects\Project Week 4\Project Week 4\obj\Debug\netcoreapp3.1\Project Week 4.AssemblyInfo.cs
+C:\Users\james\Desktop\MSSA\220\Projects\Project Week 4\Project Week 4\obj\Debug\netcoreapp3.1\Project Week 4.dll
+C:\Users\james\Desktop\MSSA\220\Projects\Project Week 4\Project Week 4\obj\Debug\netcoreapp3.1\Project Week 4.pdb
